@@ -1,3 +1,3 @@
 # crud_db
 DB: MySql
-Obs: O repositório não possue o bb
+Obs: O repositório não possue o bd
